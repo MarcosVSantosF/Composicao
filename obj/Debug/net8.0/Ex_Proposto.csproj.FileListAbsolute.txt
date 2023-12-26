@@ -1,0 +1,14 @@
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 9 - Enumerações e Composição\Ex_Proposto\bin\Debug\net8.0\Ex_Proposto.exe
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 9 - Enumerações e Composição\Ex_Proposto\bin\Debug\net8.0\Ex_Proposto.deps.json
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 9 - Enumerações e Composição\Ex_Proposto\bin\Debug\net8.0\Ex_Proposto.runtimeconfig.json
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 9 - Enumerações e Composição\Ex_Proposto\bin\Debug\net8.0\Ex_Proposto.dll
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 9 - Enumerações e Composição\Ex_Proposto\bin\Debug\net8.0\Ex_Proposto.pdb
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 9 - Enumerações e Composição\Ex_Proposto\obj\Debug\net8.0\Ex_Proposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 9 - Enumerações e Composição\Ex_Proposto\obj\Debug\net8.0\Ex_Proposto.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 9 - Enumerações e Composição\Ex_Proposto\obj\Debug\net8.0\Ex_Proposto.AssemblyInfo.cs
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 9 - Enumerações e Composição\Ex_Proposto\obj\Debug\net8.0\Ex_Proposto.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 9 - Enumerações e Composição\Ex_Proposto\obj\Debug\net8.0\Ex_Proposto.dll
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 9 - Enumerações e Composição\Ex_Proposto\obj\Debug\net8.0\refint\Ex_Proposto.dll
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 9 - Enumerações e Composição\Ex_Proposto\obj\Debug\net8.0\Ex_Proposto.pdb
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 9 - Enumerações e Composição\Ex_Proposto\obj\Debug\net8.0\Ex_Proposto.genruntimeconfig.cache
+C:\Users\marco\Documents\Udemy\Curso - C#\Seção 9 - Enumerações e Composição\Ex_Proposto\obj\Debug\net8.0\ref\Ex_Proposto.dll
